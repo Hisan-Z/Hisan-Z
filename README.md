@@ -54,6 +54,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hisan-Z/Hisan-Z/output/snake.svg" alt="Snake animation" />
 
 ###
