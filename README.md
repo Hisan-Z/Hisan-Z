@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hisan Zehra and I'm a Junior Full Stack Developer, from India</h2>
+<h2 align="left">Hi 👋 ! <br> My name is Hisan Zehra <br> I'm a Junior Full Stack Developer, from India</h2>
 
 ###
 
